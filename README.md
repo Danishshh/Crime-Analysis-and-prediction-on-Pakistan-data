@@ -1,6 +1,6 @@
 # Crime-Analysis-and-prediction-on-Pakistan-data
 # Dependencies:
-!pip install pandas 
+!pip install pandas \n 
 !pip install numpy
 !pip install -U scikit-learn
 !pip install matplotlib
